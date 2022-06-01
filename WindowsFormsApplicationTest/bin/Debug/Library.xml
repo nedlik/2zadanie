@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Library>
+  <Book UdcNumber="4" PublicationDate="2001" NumberOfCopiesInLibrary="2">
+    <Name>Учебник пользователя IBM PC.</Name>
+    <Author>Микляев А.</Author>
+  </Book>
+  <Book UdcNumber="4" PublicationDate="2001" NumberOfCopiesInLibrary="6">
+    <Name>MySQL:Учеб.пособие:Пер.с англ.</Name>
+    <Author>Дюбуа П.</Author>
+  </Book>
+  <Book UdcNumber="4" PublicationDate="2001" NumberOfCopiesInLibrary="4">
+    <Name>Электрофизика информационных систем:Учеб.пособие для вузов.</Name>
+    <Author>Кухаркин Е.С.</Author>
+  </Book>
+  <Book UdcNumber="4" PublicationDate="2001" NumberOfCopiesInLibrary="12">
+    <Name>Введение в системы баз данных. An introduction to Database Systems:Пер.с англ.</Name>
+    <Author>Дейт К.Дж.</Author>
+  </Book>
+  <Book UdcNumber="4" PublicationDate="2000" NumberOfCopiesInLibrary="1">
+    <Name>Microsoft Office 2000.Библия пользователя=Microsoft Office 2000.Bible:Пер.с англ.</Name>
+    <Author>Виллет Э.,Кроудер Д.,Кроудер Р.</Author>
+  </Book>
+  <Book UdcNumber="4" PublicationDate="1996" NumberOfCopiesInLibrary="2">
+    <Name>UNIX: Пер. с англ.</Name>
+    <Author>МакМален Дж.</Author>
+  </Book>
+  <Book UdcNumber="3" PublicationDate="2001" NumberOfCopiesInLibrary="4">
+    <Name>Windows Me: Справочник: Пер.</Name>
+    <Author>Штайнер Г.</Author>
+  </Book>
+</Library>
